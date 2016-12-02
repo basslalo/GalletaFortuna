@@ -10,6 +10,6 @@ function getFortuneFromServer(){
         //Contenido del callback 
         console.log('>status: ' + status);
         //Presentando el mensaje 
-        swal(cookie.paper);
+        swal(cookie.message);
     },'json');
 }

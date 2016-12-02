@@ -28,7 +28,7 @@ var server = http.createServer(function(req, res){
     }
     else
      {
-         //Noo se encontro un manejaor para la 
+         //Noo se encontro un manejador para la 
          //url solicitada por el usa¿uario  
          //SE intantara servir de manera estatica
          
